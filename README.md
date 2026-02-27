@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm H.K.M. Medhavi</h1>
-<h3 align="center">Software Engineering Undergraduate | Full-Stack Developer</h3>
+<h3 align="center">Software Engineering Undergraduate </h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mithilamedhavi02-byte&label=Profile%20Views&color=0e75b6&style=flat" alt="mithilamedhavi02-byte" />
